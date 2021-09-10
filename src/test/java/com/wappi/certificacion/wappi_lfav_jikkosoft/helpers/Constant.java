@@ -3,7 +3,7 @@ package com.wappi.certificacion.wappi_lfav_jikkosoft.helpers;
 public class Constant {
     public static final String GENDER_MALE = "Masculino";
     public static final String GENDER_FEMALE = "Femenino";
-    public static final String ABSOLUTE_PATH_FILE = "C:\\Users\\Sofia\\Documents\\GitHub\\wappi_lfav_jikkosoft\\imgSelenium.PNG";
+    public static final String ABSOLUTE_PATH_FILE = "C:\\Users\\Sofia\\Documents\\MisProyectosEclipse\\wappi_lfav_jikkosoft\\imgSelenium.PNG";
     public static final String OPTION_MENU_PROFILE = "Información Personal";
     public static final String OPTION_MENU_COUPON = "Cupones";
     public static final String OPTION_MENU_BEGIN = "Inicio";
