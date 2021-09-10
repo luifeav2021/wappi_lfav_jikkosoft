@@ -1,0 +1,13 @@
+com\wappi\certificacion\wappi_lfav_jikkosoft\DefinitionTestSuiteWappiLogin.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\steps\serenity\EndUserStepsWappi.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\pages\DictionaryPageLoginWappi.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\steps\DefinitionStepsWappiOrder.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\pages\DictionaryPageOrderWappi.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\pages\DictionaryPageProfileWappi.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\DefinitionTestSuiteWappiOrder.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\helpers\Constant.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\steps\DefinitionStepsWappi.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\dto\DtoWappi.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\steps\DefinitionStepsWappiProfile.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\DefinitionTestSuiteWappiProfile.class
+com\wappi\certificacion\wappi_lfav_jikkosoft\pages\DictionaryPageHomeWappi.class

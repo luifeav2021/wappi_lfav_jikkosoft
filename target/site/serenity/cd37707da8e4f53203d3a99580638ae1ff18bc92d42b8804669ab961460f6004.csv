@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login Wappi","Verificar inicio y cierre de sesión.","SUCCESS","2021-09-09T23:13:36.82-05:00[America/Bogota]","0.0","124.12"
+"Login Wappi","Verificar mensaje de error en contraseña inválida de inicio de sesión.","SUCCESS","2021-09-09T23:15:40.945-05:00[America/Bogota]","0.0","83.16"
+"Login Wappi","Verificar mensaje de error en usuario inválida de inicio de sesión.","SUCCESS","2021-09-09T23:17:04.111-05:00[America/Bogota]","0.0","81.82"
+"Login Wappi","Verificación de no ingresar caracteres especiales en usuario.","SUCCESS","2021-09-09T23:18:25.938-05:00[America/Bogota]","0.0","74.89"

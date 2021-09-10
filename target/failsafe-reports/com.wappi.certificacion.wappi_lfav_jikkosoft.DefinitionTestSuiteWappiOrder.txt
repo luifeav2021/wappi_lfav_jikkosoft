@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wappi.certificacion.wappi_lfav_jikkosoft.DefinitionTestSuiteWappiOrder
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 293.222 sec - in com.wappi.certificacion.wappi_lfav_jikkosoft.DefinitionTestSuiteWappiOrder

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Pedir una orden con y sin el cupón de bienvenida Wappi","Registrar una orden sin el cupón de bienvenida.","SUCCESS","2021-09-09T23:19:42.449-05:00[America/Bogota]","0.0","57.87"
+"Pedir una orden con y sin el cupón de bienvenida Wappi","Registrar una orden con el cupón de bienvenida.","SUCCESS","2021-09-09T23:20:40.326-05:00[America/Bogota]","0.0","72.03"
+"Pedir una orden con y sin el cupón de bienvenida Wappi","Validación de mensaje de error en cupón inválido.","SUCCESS","2021-09-09T23:21:52.363-05:00[America/Bogota]","0.0","57.55"
+"Pedir una orden con y sin el cupón de bienvenida Wappi","Validación de mensaje de error en cupón inválido al utilizarlo más de dos veces.","SUCCESS","2021-09-09T23:22:49.919-05:00[America/Bogota]","0.0","96.45"
